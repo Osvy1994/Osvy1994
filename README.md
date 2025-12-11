@@ -1,7 +1,5 @@
 ### Hi, I'm Osvaldo Madrigal 👋
 
-💼  See my portfolio: https://www.osvaldo-madrigal.com/
-
 🌱  I’m currently working at T-Mobile and this has affected my contributions to open source.
 
 💬  Ask me about Javascript and functional programming!
